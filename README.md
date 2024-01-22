@@ -4,3 +4,7 @@
 ### The classification model predicts whether to buy or sell based on precious day closing price.
 ### The regression model predicts the closing price of the gold stock.
 ### Both the models contain many machine learning models and base on accuracy and r2 score, the best model is selected.
+
+<div align="center">
+  <img src="GoldStock.png" alt="Gold Stock Price" height = "450" width="600"/>
+</div>
